@@ -87,7 +87,3 @@ npm run build
 
    A: 请检查你的项目下是否有 Git 仓库，没有则先 `git init` 初始化一个
 
-## 许可
-
-MIT Copyright © 2021 XPoet
-
